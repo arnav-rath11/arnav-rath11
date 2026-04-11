@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arnav-rath11/arnav-rath11/main/panel.png" width="100%" />
+<img src="https://raw.githubusercontent.com/arnav-rath11/panel.png" width="100%" />
 
 </div>
 
