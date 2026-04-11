@@ -1,36 +1,29 @@
-
-<img width="1200" height="500" alt="panel1" src="https://github.com/user-attachments/assets/ee36e37c-b10b-4c17-a9c4-0a6b9bc28967" /> 
-
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/arnav-rath11/arnav-rath11/main/panel.png" width="100%" />
 
-<h1 style="
-color:white;
-text-shadow: 
-0 0 2px #fff,
-0 0 6px #fff,
-0 0 12px #3b82f6,
-0 0 24px #3b82f6,
-0 0 48px #3b82f6;
-font-weight:600;
-letter-spacing:2px;
-">
-LOOKISM // SYSTEM INTERFACE
-</h1>
-
 </div>
 
----
+<br>
 
-<div align="left">
+<table>
+<tr>
 
-<pre style="
+<td width="40%">
+
+<div style="
+padding:18px;
+border:2px solid white;
+border-radius:12px;
 color:white;
 font-size:14px;
-text-shadow: 0 0 3px #ffffff, 0 0 10px #3b82f6;
+box-shadow:
+0 0 5px #fff,
+0 0 10px #fff,
+0 0 20px #fff;
 ">
+
+<pre>
 
 [ USER ID ]
 Name: Arnav
@@ -39,14 +32,59 @@ Class: Unknown
 Rank: Unknown
 Type: Unstable / Evolving
 
+</pre>
+
+</div>
+
+</td>
+
+<td width="5%" align="center">
+
+<div style="
+width:2px;
+height:200px;
+background:white;
+box-shadow:0 0 10px #fff, 0 0 20px #fff;
+"></div>
+
+</td>
+
+<td width="55%">
+
+<div style="
+color:white;
+font-size:15px;
+text-shadow:
+0 0 3px #fff,
+0 0 8px #fff,
+0 0 15px #fff;
+">
+
+<p><i>I don’t have all the answers yet.</i></p>
+
+<p><i>I’m still figuring out who I am,</i></p>
+
+<p><i>what my limits are,</i></p>
+
+<p><i>and how far I can go.</i></p>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div style="
+color:white;
+text-shadow:0 0 5px #fff, 0 0 10px #fff;
+">
+
+<pre>
 [ STATUS ]
 Active | Learning | Adapting
-
-I don’t have all the answers yet.
-I’m still figuring out who I am,
-what my limits are,
-and how far I can go.
-
 </pre>
 
 </div>
